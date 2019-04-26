@@ -1,0 +1,12 @@
+C:\Users\Max-Pc\source\repos\GameOfLife\GameSimulation\bin\Debug\GameSimulation.dll
+C:\Users\Max-Pc\source\repos\GameOfLife\GameSimulation\bin\Debug\GameSimulation.pdb
+C:\Users\Max-Pc\source\repos\GameOfLife\GameSimulation\obj\Debug\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Max-Pc\source\repos\GameOfLife\GameSimulation\obj\Debug\GameSimulation.dll
+C:\Users\Max-Pc\source\repos\GameOfLife\GameSimulation\obj\Debug\GameSimulation.pdb
+C:\Users\Max-Pc\source\repos\GameOfLife\GameSimulation\obj\Debug\GameSimulation.csprojAssemblyReference.cache
+D:\Projects\GameOfLife\GameSimulation\bin\Debug\GameSimulation.dll
+D:\Projects\GameOfLife\GameSimulation\bin\Debug\GameSimulation.pdb
+D:\Projects\GameOfLife\GameSimulation\obj\Debug\GameSimulation.csprojAssemblyReference.cache
+D:\Projects\GameOfLife\GameSimulation\obj\Debug\GameSimulation.csproj.CoreCompileInputs.cache
+D:\Projects\GameOfLife\GameSimulation\obj\Debug\GameSimulation.dll
+D:\Projects\GameOfLife\GameSimulation\obj\Debug\GameSimulation.pdb
